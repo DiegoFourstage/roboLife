@@ -24,4 +24,4 @@ hs_err_pid*
 /build/
 
 # Ignorando pastas
-nbproject/project.properties/
+nbproject/
